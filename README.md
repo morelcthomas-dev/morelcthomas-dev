@@ -27,6 +27,8 @@ Passionné par l’analyse de données, la détection d’anomalies et la créat
 
 ---
 
+## 🚀 Projets mis en avant
+
 ### 🌍 Temperature Terrestre — Dashboard Power BI
 Dashboard interactif analysant l’évolution du réchauffement climatique à partir des données de la NASA (GISTEMP) et de Our World in Data.  
 Le rapport explore :
@@ -42,8 +44,6 @@ L’hémisphère nord se réchauffe plus rapidement, les émissions de GHG suive
 
 
 ---
-
-## 🚀 Projets mis en avant
 
 ### 🛡️ **Détection de Fraude Carte Bancaire — Machine Learning**
 Analyse d’un dataset fortement déséquilibré pour identifier des transactions frauduleuses.  
